@@ -1,5 +1,6 @@
 /*   LEXICAL ANALYSER  */
 
+
 #include<iostream>
 #include<cstring>
 #include<stdlib.h>
